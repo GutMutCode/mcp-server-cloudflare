@@ -1,5 +1,7 @@
 # Cloudflare MCP Server for IDE
 
+[![smithery badge](https://smithery.ai/badge/@GutMutCode/mcp-server-cloudflare)](https://smithery.ai/server/@GutMutCode/mcp-server-cloudflare)
+
 Model Context Protocol (MCP) is a [new, standardized protocol](https://modelcontextprotocol.io/introduction) for managing context between large language models (LLMs) and external systems. In this repository, we provide an installer as well as an MCP Server for [Cloudflare's API](https://api.cloudflare.com).
 
 This lets you use Claude Desktop, and IDE like VSCode (Cline) and Windsurf or any MCP Client, to use natural language to accomplish things on your Cloudflare account, e.g.:
